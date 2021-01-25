@@ -54,7 +54,7 @@ Removal/Addition of new variables<br>
 Dropped Customer Id during EDA and model building.
 By using logistic regression, HourSpendOnApp,NumberOfDeviceRegistered,OrderAmountHikeFromlastYear were identified as insignificant variables. This is in par with EDA and so I  removed it from model building.<br>
 I created a new variable Score. This helps us identify unhappy customers.<br>
-Score = (5*Complain +  1 ) * SatisfactionScore<br<
+Score = (5*Complain +  1 ) * SatisfactionScore<br>
 
 <b>Model building</b><br>
 •	I split the data into train(75%) and test set(25%). Train set has 4215 records and Test set has 1406 records.<br>
