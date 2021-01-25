@@ -1,7 +1,7 @@
 # CustomerChurnAnalysis
 Predict customers likely to churn for an e-commerce company<br>
 
-<b><Problem Statement</b>
+<b>Problem Statement</b>
 An online retail (E commerce) company wants to know the customers who are going to churn, so accordingly they can approach customer to offer some promos.
 
 Below is the description of variables:
